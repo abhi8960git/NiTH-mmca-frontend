@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import LoginCard from './Components/LoginCard'
+import LoginCard from '../Components/LoginCard'
 import logo from '../public/images/nit-logo15954991401255.jpg'
-import TopCards from './Components/TopCards'
-import Response from './Components/Response'
-import StudentDetails from './Components/StudentDetails'
+import TopCards from '../Components/TopCards'
+import Response from '../Components/Response'
+import StudentDetails from '../Components/StudentDetails'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {

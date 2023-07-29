@@ -4,7 +4,7 @@ import Image from 'next/image';
 import {  RxDashboard, RxPerson } from 'react-icons/rx';
 import {TbListDetails} from 'react-icons/tb';
 import { FiSettings } from 'react-icons/fi';
-import NITHLogo from '../../public/images/nit-logo15954991401255.jpg'
+import NITHLogo from '../public/images/nit-logo15954991401255.jpg'
 
 interface SidebarProps{
     children:ReactElement

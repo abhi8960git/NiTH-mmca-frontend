@@ -1,6 +1,6 @@
 import React from 'react';
 import TopCard from './TopCard';
-import {Itop} from '../../types'
+import {Itop} from '../types'
 
 const data:Itop[] = [
   { name: "Students", status: "Total", count: 10 },

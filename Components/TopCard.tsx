@@ -1,5 +1,5 @@
 import React from 'react';
-import { Itop } from '../../types';
+import { Itop } from '../types';
 
 interface TopCardProps {
   data: Itop;
