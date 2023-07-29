@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![Image Alt Text](https://res.cloudinary.com/dmlaqelqw/image/upload/v1690631022/Screenshot_79_qaao45.png)
+![Image Alt Text](https://res.cloudinary.com/dmlaqelqw/image/upload/v1690631203/Screenshot_79_b2ld6m.png)
 
 
 First, run the development server:
