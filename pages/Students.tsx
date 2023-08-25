@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsPersonFill, BsThreeDotsVertical } from 'react-icons/bs';
-import StudentInfoCard from '../Components/StudentInfoCard';
+import StudentInfoCard from '../components/StudentInfoCard';
 // import { IOrder } from '../types';
 // import { data } from '../data/data';
 

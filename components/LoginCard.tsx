@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Image from 'next/image';
-import img from '../../public/images/img.svg'
+import img from '../../public/images/img.svg';
 
 // Rust Enum for Hostels
 // Rust Enum for Hostels with associated string values
